@@ -8,7 +8,7 @@
   },
   "flags": {
     "circleSharingEnabled": true,
-    "caregiverPushEnabled": false,
+    "caregiverPushEnabled": true,
     "webCheckoutEnabled": false,
     "watchComplicationsEnabled": false,
     "healthKitImportEnabled": false,
