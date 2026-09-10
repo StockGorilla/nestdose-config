@@ -7,7 +7,7 @@
     "actionURL": "itms-beta://beta.itunes.apple.com/v1/app/6810688107"
   },
   "flags": {
-    "circleSharingEnabled": false,
+    "circleSharingEnabled": true,
     "caregiverPushEnabled": false,
     "webCheckoutEnabled": false,
     "watchComplicationsEnabled": false,
