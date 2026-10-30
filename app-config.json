@@ -12,6 +12,6 @@
     "webCheckoutEnabled": false,
     "watchComplicationsEnabled": false,
     "healthKitImportEnabled": false,
-    "debugMenuEnabled": true
+    "debugMenuEnabled": false
   }
 }
